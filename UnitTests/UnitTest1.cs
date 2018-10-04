@@ -9,7 +9,7 @@ namespace UnitTests
         [TestMethod]
         public void TestMethod1()
         {
-            String test6 = "hello";
+            String test6 = null;
             int n = test6.Length;
         }
     }
